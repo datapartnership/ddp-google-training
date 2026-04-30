@@ -18,7 +18,7 @@ If you have a GitHub Pro account with a payment method on file, exceeding the fr
 
 To make sure this training costs you nothing, do these three things on your account *before* you create the codespace:
 
-1. Set a spending limit of $0: Go to [github.com/settings/billing/budgets](https://github.com/settings/billing/budgets) and confirm Codespaces is set to $0. This is the default for new accounts but worth checking.
+1. Set a spending limit of \$0: Go to [github.com/settings/billing/budgets](https://github.com/settings/billing/budgets) and confirm Codespaces is set to \$0. This is the default for new accounts but worth checking.
 2. Set the default idle timeout to 30 minutes: Go to [github.com/settings/codespaces](https://github.com/settings/codespaces) and set the default idle timeout to 30 minutes. This ensures the codespace auto-stops if you walk away.
 3. Set the default retention period to 7 days: In the same page, set the default retention period to 7 days. This means if you forget to delete the codespace, it will auto-delete after a week, freeing up your storage quota.
 
