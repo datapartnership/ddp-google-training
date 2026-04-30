@@ -10,9 +10,6 @@ GitHub Codespaces provides a ready-to-use cloud environment for this training. P
 | `data/` | Example data for exercises |
 | `.devcontainer/` | Codespaces container configuration |
 
----
-
-
 ## Before The Session: Avoid Unexpected Charges (2 minutes)
 
 GitHub Codespaces is free up to a monthly allowance: 120 core-hours of compute and 15 GB-month of storage on a Free account; 180 core-hours and 20 GB-month on Pro. A typical training session on the default 2-core machine consumes a small fraction of this. The risk isn't the session itself, but a codespace left running, or simply left undeleted, after the training ends.
